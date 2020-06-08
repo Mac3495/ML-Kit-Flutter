@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "839378648287",
+    "firebase_url": "https://location-532af.firebaseio.com",
+    "project_id": "location-532af",
+    "storage_bucket": "location-532af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839378648287:android:6140351df5b630f6",
+        "android_client_info": {
+          "package_name": "com.example.mac.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839378648287-3rijpefhnbl2fg2vonm2lh5uahluviip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMKJRyGE4RW34d2AtlQ2Trr6xMkOOtAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839378648287-3rijpefhnbl2fg2vonm2lh5uahluviip.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839378648287-liq83mut60d4d2pkakoimlg7u8se5ek3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marcelo.PlatziTweets"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839378648287:android:7dcfebe3968c68e8dfbd6a",
+        "android_client_info": {
+          "package_name": "com.mac3495.mlkitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839378648287-3rijpefhnbl2fg2vonm2lh5uahluviip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMKJRyGE4RW34d2AtlQ2Trr6xMkOOtAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839378648287-3rijpefhnbl2fg2vonm2lh5uahluviip.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839378648287-liq83mut60d4d2pkakoimlg7u8se5ek3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marcelo.PlatziTweets"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
